@@ -17,9 +17,12 @@
                             </b>
                             <!--End Logo icon -->
                             <!-- Logo text -->
+                            
+                        <!-- ---------- the logo i commented for the hostel Management ------- -->
                             <span class="logo-text">
                                 <!-- dark Logo text -->
-                                <img src="../assets/images/logo-text-nav.png" alt="homepage" class="dark-logo" />
+                                <!-- <h3>Hostel Reservation</h3> -->
+                                <!-- <img src="../assets/images/logo-text-nav.png" alt="homepage" class="dark-logo" /> -->
                                 <!-- Light Logo text -->
                                 <img src="../assets/images/logo-light-text.png" class="light-logo" alt="homepage" />
                             </span>
